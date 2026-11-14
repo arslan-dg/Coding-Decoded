@@ -3,9 +3,9 @@ These are some resources I used throughout my long time studying for interviews.
 
 ### Grokking
 
-* https://www.educative.io/courses/grokking-the-system-design-interview - Really nice product that gives you a great overview.
-* https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews - Thought this was sneaky useful for working through recurrence relationships to optimized DP approaches.
-* https://www.educative.io/courses/grokking-the-coding-interview - Also did this one but leetcode works just fine and is not necessary.
+* https://www.designgurus.io/course/grokking-the-system-design-interview - Really nice product that gives you a great overview.
+* https://www.designgurus.io/course/grokking-dynamic-programming - Thought this was sneaky useful for working through recurrence relationships to optimized DP approaches.
+* https://www.designgurus.io/course/grokking-the-coding-interview - Also did this one but leetcode works just fine and is not necessary.
 
 
 ### Systems Design
